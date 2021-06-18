@@ -70,8 +70,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter: "https://twitter.com/DavidKi61104715" 
-  username               : "@DavidKi61104715"
+twitter: 
+  username               : 
 facebook:
   username               :
   app_id                 :

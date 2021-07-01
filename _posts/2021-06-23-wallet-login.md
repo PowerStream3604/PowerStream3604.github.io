@@ -138,3 +138,10 @@ public function verifySignature($message, $signature, $address)
 	return strtolower($address) == $this->pubKeyToAddress($pubkey);
 }
 ```
+
+
+Now that we understood major procedures and implementation of them.
+Let's combine all of them and make a sample system for wallet-login.
+
+
+
